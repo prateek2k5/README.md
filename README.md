@@ -1,12 +1,53 @@
-<h1 align="center">Hi 👋, I'm Prateek Verma</h1>
-<h3 align="center">A passionate coder(B.Tech 2nd Year student) from India.</h3>
+# 👋 Hi, I'm Prateek Verma  
 
-- 🌱 I’m currently learning **Java Programming**
+🎓 **3rd-Year IT Student** | 💻 **Tech Learner & Hackathon Enthusiast** | 🎮 **Game Developer (Beginner)** | 🌱 **Sustainability Advocate**  
 
-- 💬 Ask me about **Python , C , HTML , CSS**
+I’m passionate about using technology to **solve real-world problems** and create fun, engaging projects. Currently focusing on **Java and DSA**, I also enjoy building games, participating in hackathons, and working on sustainability-driven projects like **Glassify**.  
 
-- 📫 How to reach me **vermaprateeklive@gmail.com**
+---
 
+## 🚀 About Me  
+- 🎓 Pursuing **B.Tech in Information Technology** (3rd Year)  
+- 💻 Skilled in **Python** and **SQL**  
+- 🌱 Currently learning **Java** and **Data Structures & Algorithms (DSA)**  
+- 🎮 Built a **Hangman Game using Python & Pygame**  
+- 🛠️ Experienced with **FlutterFlow**, **Firebase**, and **UI/UX design**  
+- 🏆 Passionate about **hackathons, innovation, and project-based learning**  
+- 📍 Based in **India**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech & Tools I Use  
+| Category            | Tools |
+|---------------------|-------|
+| **Programming**     | Python, SQL, Java (Learning), DSA (Learning) |
+| **Game Dev**        | Python Pygame |
+| **App Development** | FlutterFlow, Firebase |
+| **Design**          | Figma, LottieFiles, Pinterest |
+| **Database**        | MySQL, Firebase Firestore |
+| **Version Control** | Git, GitHub |
+| **Others**          | Low-code Tools, Cloud Services, APIs |
+
+---
+
+## 🌟 Featured Projects
+- 🎮 **Hangman Game (Python + Pygame)** – A fun word-guessing game built with Pygame, showcasing logic-building and Python skills.  
+- 🌱 **Glassify** – A sustainability-focused marketplace prototype for upcycling and eco-commerce.  
+- 🏆 **Hackathon Projects** – Innovative solutions tackling real-world sustainability and tech challenges.  
+- 🎨 **UI/UX Experiments** – Prototyping clean and user-friendly app designs.  
+
+---
+
+## 📈 GitHub Stats  
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://linkedin.com/in/)  
+- 🐙 [GitHub](https://github.com/)  
+- ✉️ [Email](mailto:your-email@gmail.com)  
+
+---
+
+> 🚀 *Tech explorer, project builder, and learner. Bridging creativity, software development, and sustainability while leveling up my skills.*  
