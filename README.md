@@ -44,9 +44,9 @@ I’m passionate about using technology to **solve real-world problems** and cre
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/)  
+- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/prateek-verma-04297b326/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 🐙 [GitHub](https://github.com/)  
-- ✉️ [Email](mailto:your-email@gmail.com)  
+- ✉️ [Email](mailto:vermaprateeklive@gmail.com)  
 
 ---
 
