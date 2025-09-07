@@ -36,16 +36,12 @@ I’m passionate about using technology to **solve real-world problems** and cre
 - 🏆 **Hackathon Projects** – Innovative solutions tackling real-world sustainability and tech challenges.  
 - 🎨 **UI/UX Experiments** – Prototyping clean and user-friendly app designs.  
 
----
-
-## 📈 GitHub Stats  
-![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/prateek-verma-04297b326/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- 🐙 [GitHub](https://github.com/)  
+- 💼 [LinkedIn]([https://linkedin.com/in/prateek-verma-04297b326/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+- 🐙 [GitHub](https://github.com/prateek2k5)
 - ✉️ [Email](mailto:vermaprateeklive@gmail.com)  
 
 ---
